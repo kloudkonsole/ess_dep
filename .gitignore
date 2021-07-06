@@ -1,0 +1,12 @@
+.DS_Store
+*.log
+.env
+
+directus/
+cordova/
+11ty/
+stub/
+stub-eg/
+_includes/
+mysql/data/
+node_modules/
